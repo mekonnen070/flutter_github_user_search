@@ -6,10 +6,8 @@ Building a github user search in Flutter.
 
 ## Screenshots
 
-<img src="flutter_01.png" height="300em" /> 
-<img src="flutter_02.png" height="300em" /> 
-<img src="flutter_03.png" height="300em" /> 
-<img src="flutter_04.png" height="300em" /> 
+<img src="flutter_01.png" height="300em" />  <img src="flutter_02.png" height="300em" /> 
+<img src="flutter_03.png" height="300em" />  <img src="flutter_04.png" height="300em" /> 
 
 
 
