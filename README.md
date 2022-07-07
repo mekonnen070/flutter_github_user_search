@@ -1,10 +1,17 @@
 # flutter_github_user_search
 
-A new Flutter project.
+Building a github user search in Flutter.
 
-## Getting Started
+### Show some :heart: and star the repo to support the project if you find it useful
 
-This project is a starting point for a Flutter application.
+## Screenshots
+
+<img src="flutter_01.png" height="300em" /> 
+<img src="flutter_02.png" height="300em" /> 
+<img src="flutter_03.png" height="300em" /> 
+<img src="flutter_04.png" height="300em" /> 
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
